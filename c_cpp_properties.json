@@ -49,7 +49,6 @@
                 "Path/MinGW/lib/gcc/mingw32/6.3.0/include",
                 "Path/MinGW/lib/gcc/mingw32/6.3.0/include/c++",
                 "Path/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32",
-                "Path/MinGW/lib/gcc/mingw32/6.3.0/include/c++/tr1",
                 "${workspaceRoot}"
             ],
             "defines": [

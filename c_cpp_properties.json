@@ -45,7 +45,7 @@
         {
             "name": "Win32",
             "includePath": [
-                "Paht/MinGW/include",
+                "Path/MinGW/include",
                 "Path/MinGW/lib/gcc/mingw32/6.3.0/include",
                 "Path/MinGW/lib/gcc/mingw32/6.3.0/include/c++",
                 "Path/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32",
